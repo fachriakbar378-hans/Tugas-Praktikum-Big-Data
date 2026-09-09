@@ -1,0 +1,117 @@
+id_transaksi,tanggal,kategori,unit_terjual,harga_satuan,metode_pembayaran,kota
+TRX-303-0001,2026-08-08,Elektronik,5,1200000,Kartu Kredit,Semarang
+TRX-303-0002,2026-08-31,Makanan & Minuman,2,15000,Kartu Kredit,Semarang
+TRX-303-0003,2026-08-10,Fashion,6,1200000,E-Wallet,Semarang
+TRX-303-0004,2026-08-17,Fashion,1,1200000,Kartu Kredit,Semarang
+TRX-303-0005,2026-08-28,Kesehatan & Kecantikan,3,500000,COD,Semarang
+TRX-303-0006,2026-08-31,Elektronik,5,15000,Transfer Bank,Semarang
+TRX-303-0007,2026-08-26,Fashion,4,500000,Transfer Bank,Semarang
+TRX-303-0008,2026-08-09,Makanan & Minuman,3,15000,Transfer Bank,Semarang
+TRX-303-0009,2026-08-22,Kesehatan & Kecantikan,5,50000,E-Wallet,Semarang
+TRX-303-0010,2026-08-19,Elektronik,8,15000,Kartu Kredit,Semarang
+TRX-303-0011,2026-08-29,Rumah Tangga,4,500000,COD,Semarang
+TRX-303-0012,2026-08-14,Makanan & Minuman,1,1200000,Kartu Kredit,Semarang
+TRX-303-0013,2026-08-08,Fashion,7,15000,Kartu Kredit,Semarang
+TRX-303-0014,2026-08-09,Fashion,8,15000,Kartu Kredit,Semarang
+TRX-303-0015,2026-08-22,Makanan & Minuman,3,150000,Transfer Bank,Semarang
+TRX-303-0016,2026-08-11,Fashion,6,1200000,COD,Semarang
+TRX-303-0017,2026-08-23,Kesehatan & Kecantikan,2,50000,COD,Semarang
+TRX-303-0018,2026-08-01,Elektronik,7,500000,Kartu Kredit,Semarang
+TRX-303-0019,2026-08-14,Kesehatan & Kecantikan,8,50000,Transfer Bank,Semarang
+TRX-303-0020,2026-08-05,Fashion,6,1200000,Transfer Bank,Semarang
+TRX-303-0021,2026-08-21,Rumah Tangga,6,15000,COD,Semarang
+TRX-303-0022,2026-08-26,Elektronik,5,15000,Transfer Bank,Semarang
+TRX-303-0023,2026-08-14,Elektronik,8,1200000,Transfer Bank,Semarang
+TRX-303-0024,2026-08-04,Makanan & Minuman,1,15000,Transfer Bank,Semarang
+TRX-303-0025,2026-08-22,Makanan & Minuman,4,15000,E-Wallet,Semarang
+TRX-303-0026,2026-08-23,Rumah Tangga,4,15000,Kartu Kredit,Semarang
+TRX-303-0027,2026-08-25,Elektronik,3,500000,COD,Semarang
+TRX-303-0028,2026-08-01,Rumah Tangga,3,500000,COD,Semarang
+TRX-303-0029,2026-08-31,Makanan & Minuman,4,150000,E-Wallet,Semarang
+TRX-303-0030,2026-08-22,Makanan & Minuman,1,50000,Kartu Kredit,Semarang
+TRX-303-0031,2026-08-23,Elektronik,2,1200000,COD,Semarang
+TRX-303-0032,2026-08-19,Kesehatan & Kecantikan,9,1200000,Transfer Bank,Semarang
+TRX-303-0033,2026-08-08,Fashion,2,1200000,COD,Semarang
+TRX-303-0034,2026-08-15,Makanan & Minuman,5,150000,Transfer Bank,Semarang
+TRX-303-0035,2026-08-21,Makanan & Minuman,9,500000,E-Wallet,Semarang
+TRX-303-0036,2026-08-15,Kesehatan & Kecantikan,9,150000,Transfer Bank,Semarang
+TRX-303-0037,2026-08-09,Kesehatan & Kecantikan,8,1200000,COD,Semarang
+TRX-303-0038,2026-08-21,Rumah Tangga,1,50000,COD,Semarang
+TRX-303-0039,2026-08-09,Rumah Tangga,1,15000,COD,Semarang
+TRX-303-0040,2026-08-10,Fashion,9,500000,E-Wallet,Semarang
+TRX-303-0041,2026-08-20,Fashion,8,500000,E-Wallet,Semarang
+TRX-303-0042,2026-08-25,Elektronik,9,150000,Kartu Kredit,Semarang
+TRX-303-0043,2026-08-21,Rumah Tangga,7,500000,COD,Semarang
+TRX-303-0044,2026-08-26,Makanan & Minuman,3,1200000,Transfer Bank,Semarang
+TRX-303-0045,2026-08-09,Rumah Tangga,3,1200000,E-Wallet,Semarang
+TRX-303-0046,2026-08-03,Makanan & Minuman,2,150000,COD,Semarang
+TRX-303-0047,2026-08-31,Kesehatan & Kecantikan,5,1200000,COD,Semarang
+TRX-303-0048,2026-08-20,Rumah Tangga,3,50000,E-Wallet,Semarang
+TRX-303-0049,2026-08-25,Kesehatan & Kecantikan,6,150000,Kartu Kredit,Semarang
+TRX-303-0050,2026-08-26,Fashion,2,50000,E-Wallet,Semarang
+TRX-303-0051,2026-08-11,Fashion,3,15000,E-Wallet,Semarang
+TRX-303-0052,2026-08-06,Elektronik,5,50000,Transfer Bank,Semarang
+TRX-303-0053,2026-08-02,Rumah Tangga,1,15000,Transfer Bank,Semarang
+TRX-303-0054,2026-08-07,Kesehatan & Kecantikan,1,15000,Kartu Kredit,Semarang
+TRX-303-0055,2026-08-18,Makanan & Minuman,9,50000,COD,Semarang
+TRX-303-0056,2026-08-27,Fashion,7,150000,E-Wallet,Semarang
+TRX-303-0057,2026-08-02,Fashion,1,1200000,Kartu Kredit,Semarang
+TRX-303-0058,2026-08-27,Makanan & Minuman,8,1200000,Transfer Bank,Semarang
+TRX-303-0059,2026-08-17,Kesehatan & Kecantikan,3,15000,E-Wallet,Semarang
+TRX-303-0060,2026-08-11,Kesehatan & Kecantikan,8,15000,COD,Semarang
+TRX-303-0061,2026-08-27,Rumah Tangga,5,150000,Transfer Bank,Semarang
+TRX-303-0062,2026-08-12,Rumah Tangga,1,500000,Transfer Bank,Semarang
+TRX-303-0063,2026-08-27,Elektronik,7,50000,Transfer Bank,Semarang
+TRX-303-0064,2026-08-19,Fashion,5,15000,Kartu Kredit,Semarang
+TRX-303-0065,2026-08-22,Rumah Tangga,6,1200000,COD,Semarang
+TRX-303-0066,2026-08-24,Kesehatan & Kecantikan,6,150000,E-Wallet,Semarang
+TRX-303-0067,2026-08-25,Makanan & Minuman,8,50000,Kartu Kredit,Semarang
+TRX-303-0068,2026-08-07,Kesehatan & Kecantikan,9,150000,Kartu Kredit,Semarang
+TRX-303-0069,2026-08-20,Fashion,2,50000,Kartu Kredit,Semarang
+TRX-303-0070,2026-08-06,Kesehatan & Kecantikan,9,50000,Transfer Bank,Semarang
+TRX-303-0071,2026-08-21,Elektronik,9,15000,COD,Semarang
+TRX-303-0072,2026-08-24,Fashion,7,150000,Kartu Kredit,Semarang
+TRX-303-0073,2026-08-01,Makanan & Minuman,1,150000,E-Wallet,Semarang
+TRX-303-0074,2026-08-17,Elektronik,7,1200000,COD,Semarang
+TRX-303-0075,2026-08-29,Fashion,5,1200000,E-Wallet,Semarang
+TRX-303-0076,2026-08-31,Makanan & Minuman,6,15000,COD,Semarang
+TRX-303-0077,2026-08-11,Elektronik,7,15000,E-Wallet,Semarang
+TRX-303-0078,2026-08-22,Elektronik,5,500000,Transfer Bank,Semarang
+TRX-303-0079,2026-08-26,Fashion,7,1200000,Kartu Kredit,Semarang
+TRX-303-0080,2026-08-28,Rumah Tangga,9,50000,E-Wallet,Semarang
+TRX-303-0081,2026-08-18,Elektronik,3,150000,COD,Semarang
+TRX-303-0082,2026-08-21,Elektronik,8,15000,Kartu Kredit,Semarang
+TRX-303-0083,2026-08-17,Makanan & Minuman,2,150000,Kartu Kredit,Semarang
+TRX-303-0084,2026-08-07,Kesehatan & Kecantikan,7,150000,COD,Semarang
+TRX-303-0085,2026-08-17,Fashion,2,500000,E-Wallet,Semarang
+TRX-303-0086,2026-08-20,Fashion,4,1200000,Transfer Bank,Semarang
+TRX-303-0087,2026-08-09,Rumah Tangga,7,15000,Transfer Bank,Semarang
+TRX-303-0088,2026-08-17,Rumah Tangga,3,150000,E-Wallet,Semarang
+TRX-303-0089,2026-08-20,Fashion,2,15000,Kartu Kredit,Semarang
+TRX-303-0090,2026-08-22,Rumah Tangga,7,50000,Kartu Kredit,Semarang
+TRX-303-0091,2026-08-22,Makanan & Minuman,1,500000,Kartu Kredit,Semarang
+TRX-303-0092,2026-08-28,Fashion,8,50000,Kartu Kredit,Semarang
+TRX-303-0093,2026-08-31,Rumah Tangga,3,15000,E-Wallet,Semarang
+TRX-303-0094,2026-08-29,Fashion,2,15000,Kartu Kredit,Semarang
+TRX-303-0095,2026-08-08,Kesehatan & Kecantikan,3,1200000,COD,Semarang
+TRX-303-0096,2026-08-17,Elektronik,5,150000,Kartu Kredit,Semarang
+TRX-303-0097,2026-08-07,Fashion,8,150000,Transfer Bank,Semarang
+TRX-303-0098,2026-08-01,Elektronik,7,50000,Kartu Kredit,Semarang
+TRX-303-0099,2026-08-13,Rumah Tangga,7,500000,E-Wallet,Semarang
+TRX-303-0100,2026-08-30,Elektronik,7,150000,Transfer Bank,Semarang
+TRX-303-0101,2026-08-23,Fashion,8,1200000,E-Wallet,Semarang
+TRX-303-0102,2026-08-19,Kesehatan & Kecantikan,1,50000,E-Wallet,Semarang
+TRX-303-0103,2026-08-27,Rumah Tangga,4,50000,Transfer Bank,Semarang
+TRX-303-0104,2026-08-24,Fashion,6,1200000,E-Wallet,Semarang
+TRX-303-0105,2026-08-19,Rumah Tangga,9,500000,E-Wallet,Semarang
+TRX-303-0106,2026-08-30,Makanan & Minuman,2,1200000,Kartu Kredit,Semarang
+TRX-303-0107,2026-08-30,Elektronik,1,500000,COD,Semarang
+TRX-303-0108,2026-08-29,Makanan & Minuman,2,1200000,E-Wallet,Semarang
+TRX-303-0109,2026-08-17,Fashion,7,1200000,E-Wallet,Semarang
+TRX-303-0110,2026-08-13,Kesehatan & Kecantikan,3,15000,E-Wallet,Semarang
+TRX-303-0111,2026-08-29,Rumah Tangga,2,50000,Kartu Kredit,Semarang
+TRX-303-0112,2026-08-30,Elektronik,7,1200000,COD,Semarang
+TRX-303-0113,2026-08-16,Rumah Tangga,2,1200000,Transfer Bank,Semarang
+TRX-303-0114,2026-08-08,Fashion,3,150000,Kartu Kredit,Semarang
+TRX-303-0115,2026-08-19,Rumah Tangga,7,50000,Kartu Kredit,Semarang
+TRX-303-0116,2026-08-18,Elektronik,4,150000,COD,Semarang

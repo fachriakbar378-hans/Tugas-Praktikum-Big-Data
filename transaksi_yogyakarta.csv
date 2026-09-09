@@ -1,0 +1,111 @@
+id_transaksi,tanggal,kategori,unit_terjual,harga_satuan,metode_pembayaran,kota
+TRX-202-0001,2026-08-20,Elektronik,2,50000,Transfer Bank,Yogyakarta
+TRX-202-0002,2026-08-19,Rumah Tangga,1,15000,Transfer Bank,Yogyakarta
+TRX-202-0003,2026-08-26,Fashion,6,500000,COD,Yogyakarta
+TRX-202-0004,2026-08-15,Kesehatan & Kecantikan,5,150000,COD,Yogyakarta
+TRX-202-0005,2026-08-16,Rumah Tangga,9,50000,E-Wallet,Yogyakarta
+TRX-202-0006,2026-08-21,Rumah Tangga,1,15000,E-Wallet,Yogyakarta
+TRX-202-0007,2026-08-05,Rumah Tangga,7,1200000,Transfer Bank,Yogyakarta
+TRX-202-0008,2026-08-03,Rumah Tangga,5,500000,Kartu Kredit,Yogyakarta
+TRX-202-0009,2026-08-12,Rumah Tangga,5,50000,Kartu Kredit,Yogyakarta
+TRX-202-0010,2026-08-25,Makanan & Minuman,2,50000,COD,Yogyakarta
+TRX-202-0011,2026-08-20,Kesehatan & Kecantikan,3,150000,COD,Yogyakarta
+TRX-202-0012,2026-08-27,Rumah Tangga,7,150000,COD,Yogyakarta
+TRX-202-0013,2026-08-21,Kesehatan & Kecantikan,6,1200000,E-Wallet,Yogyakarta
+TRX-202-0014,2026-08-04,Makanan & Minuman,2,1200000,E-Wallet,Yogyakarta
+TRX-202-0015,2026-08-21,Makanan & Minuman,6,15000,COD,Yogyakarta
+TRX-202-0016,2026-08-23,Kesehatan & Kecantikan,2,15000,COD,Yogyakarta
+TRX-202-0017,2026-08-16,Elektronik,2,1200000,COD,Yogyakarta
+TRX-202-0018,2026-08-25,Fashion,2,1200000,Kartu Kredit,Yogyakarta
+TRX-202-0019,2026-08-07,Elektronik,3,500000,E-Wallet,Yogyakarta
+TRX-202-0020,2026-08-13,Elektronik,2,150000,Kartu Kredit,Yogyakarta
+TRX-202-0021,2026-08-21,Elektronik,4,15000,Kartu Kredit,Yogyakarta
+TRX-202-0022,2026-08-10,Rumah Tangga,9,150000,COD,Yogyakarta
+TRX-202-0023,2026-08-26,Makanan & Minuman,6,150000,COD,Yogyakarta
+TRX-202-0024,2026-08-07,Elektronik,1,1200000,Transfer Bank,Yogyakarta
+TRX-202-0025,2026-08-14,Makanan & Minuman,8,500000,Transfer Bank,Yogyakarta
+TRX-202-0026,2026-08-31,Kesehatan & Kecantikan,7,50000,Kartu Kredit,Yogyakarta
+TRX-202-0027,2026-08-26,Fashion,3,500000,E-Wallet,Yogyakarta
+TRX-202-0028,2026-08-05,Kesehatan & Kecantikan,1,500000,COD,Yogyakarta
+TRX-202-0029,2026-08-03,Kesehatan & Kecantikan,5,150000,COD,Yogyakarta
+TRX-202-0030,2026-08-23,Rumah Tangga,4,500000,Kartu Kredit,Yogyakarta
+TRX-202-0031,2026-08-29,Fashion,8,15000,Transfer Bank,Yogyakarta
+TRX-202-0032,2026-08-11,Kesehatan & Kecantikan,1,150000,E-Wallet,Yogyakarta
+TRX-202-0033,2026-08-11,Kesehatan & Kecantikan,1,15000,Transfer Bank,Yogyakarta
+TRX-202-0034,2026-08-18,Fashion,4,50000,Transfer Bank,Yogyakarta
+TRX-202-0035,2026-08-15,Fashion,8,150000,Transfer Bank,Yogyakarta
+TRX-202-0036,2026-08-12,Kesehatan & Kecantikan,5,50000,Transfer Bank,Yogyakarta
+TRX-202-0037,2026-08-09,Fashion,2,150000,COD,Yogyakarta
+TRX-202-0038,2026-08-10,Kesehatan & Kecantikan,6,1200000,COD,Yogyakarta
+TRX-202-0039,2026-08-26,Kesehatan & Kecantikan,5,500000,Transfer Bank,Yogyakarta
+TRX-202-0040,2026-08-12,Rumah Tangga,2,1200000,E-Wallet,Yogyakarta
+TRX-202-0041,2026-08-17,Elektronik,3,50000,Kartu Kredit,Yogyakarta
+TRX-202-0042,2026-08-29,Kesehatan & Kecantikan,9,500000,E-Wallet,Yogyakarta
+TRX-202-0043,2026-08-06,Makanan & Minuman,7,150000,E-Wallet,Yogyakarta
+TRX-202-0044,2026-08-07,Elektronik,7,500000,E-Wallet,Yogyakarta
+TRX-202-0045,2026-08-14,Elektronik,6,15000,Transfer Bank,Yogyakarta
+TRX-202-0046,2026-08-13,Elektronik,8,500000,COD,Yogyakarta
+TRX-202-0047,2026-08-08,Rumah Tangga,4,15000,E-Wallet,Yogyakarta
+TRX-202-0048,2026-08-10,Kesehatan & Kecantikan,8,500000,Transfer Bank,Yogyakarta
+TRX-202-0049,2026-08-09,Rumah Tangga,4,15000,E-Wallet,Yogyakarta
+TRX-202-0050,2026-08-18,Kesehatan & Kecantikan,8,50000,E-Wallet,Yogyakarta
+TRX-202-0051,2026-08-27,Rumah Tangga,9,1200000,Transfer Bank,Yogyakarta
+TRX-202-0052,2026-08-26,Rumah Tangga,3,150000,COD,Yogyakarta
+TRX-202-0053,2026-08-02,Makanan & Minuman,3,500000,COD,Yogyakarta
+TRX-202-0054,2026-08-05,Rumah Tangga,2,1200000,Kartu Kredit,Yogyakarta
+TRX-202-0055,2026-08-29,Fashion,3,150000,Transfer Bank,Yogyakarta
+TRX-202-0056,2026-08-05,Makanan & Minuman,3,150000,Kartu Kredit,Yogyakarta
+TRX-202-0057,2026-08-06,Rumah Tangga,5,15000,Kartu Kredit,Yogyakarta
+TRX-202-0058,2026-08-19,Elektronik,5,50000,Kartu Kredit,Yogyakarta
+TRX-202-0059,2026-08-08,Fashion,2,50000,COD,Yogyakarta
+TRX-202-0060,2026-08-16,Fashion,6,1200000,Transfer Bank,Yogyakarta
+TRX-202-0061,2026-08-13,Fashion,5,50000,Kartu Kredit,Yogyakarta
+TRX-202-0062,2026-08-01,Makanan & Minuman,6,500000,Transfer Bank,Yogyakarta
+TRX-202-0063,2026-08-22,Rumah Tangga,1,50000,Transfer Bank,Yogyakarta
+TRX-202-0064,2026-08-20,Rumah Tangga,5,1200000,COD,Yogyakarta
+TRX-202-0065,2026-08-17,Elektronik,9,50000,Kartu Kredit,Yogyakarta
+TRX-202-0066,2026-08-31,Elektronik,2,500000,Kartu Kredit,Yogyakarta
+TRX-202-0067,2026-08-07,Fashion,1,15000,Transfer Bank,Yogyakarta
+TRX-202-0068,2026-08-25,Elektronik,9,1200000,E-Wallet,Yogyakarta
+TRX-202-0069,2026-08-13,Makanan & Minuman,9,15000,COD,Yogyakarta
+TRX-202-0070,2026-08-04,Rumah Tangga,9,15000,COD,Yogyakarta
+TRX-202-0071,2026-08-04,Fashion,6,15000,COD,Yogyakarta
+TRX-202-0072,2026-08-06,Elektronik,8,150000,COD,Yogyakarta
+TRX-202-0073,2026-08-28,Makanan & Minuman,1,150000,Kartu Kredit,Yogyakarta
+TRX-202-0074,2026-08-31,Makanan & Minuman,4,15000,Kartu Kredit,Yogyakarta
+TRX-202-0075,2026-08-19,Elektronik,1,1200000,E-Wallet,Yogyakarta
+TRX-202-0076,2026-08-29,Rumah Tangga,8,500000,COD,Yogyakarta
+TRX-202-0077,2026-08-12,Elektronik,1,500000,COD,Yogyakarta
+TRX-202-0078,2026-08-22,Fashion,3,50000,Transfer Bank,Yogyakarta
+TRX-202-0079,2026-08-07,Elektronik,4,1200000,Kartu Kredit,Yogyakarta
+TRX-202-0080,2026-08-27,Makanan & Minuman,8,150000,COD,Yogyakarta
+TRX-202-0081,2026-08-10,Elektronik,6,15000,E-Wallet,Yogyakarta
+TRX-202-0082,2026-08-26,Rumah Tangga,7,50000,E-Wallet,Yogyakarta
+TRX-202-0083,2026-08-19,Kesehatan & Kecantikan,8,500000,Kartu Kredit,Yogyakarta
+TRX-202-0084,2026-08-07,Elektronik,2,150000,E-Wallet,Yogyakarta
+TRX-202-0085,2026-08-30,Rumah Tangga,8,150000,E-Wallet,Yogyakarta
+TRX-202-0086,2026-08-03,Rumah Tangga,3,15000,Kartu Kredit,Yogyakarta
+TRX-202-0087,2026-08-13,Makanan & Minuman,7,500000,COD,Yogyakarta
+TRX-202-0088,2026-08-13,Rumah Tangga,3,1200000,COD,Yogyakarta
+TRX-202-0089,2026-08-18,Rumah Tangga,7,150000,E-Wallet,Yogyakarta
+TRX-202-0090,2026-08-28,Rumah Tangga,2,15000,E-Wallet,Yogyakarta
+TRX-202-0091,2026-08-30,Rumah Tangga,6,1200000,COD,Yogyakarta
+TRX-202-0092,2026-08-26,Fashion,3,500000,Kartu Kredit,Yogyakarta
+TRX-202-0093,2026-08-20,Fashion,3,150000,E-Wallet,Yogyakarta
+TRX-202-0094,2026-08-28,Makanan & Minuman,9,1200000,Transfer Bank,Yogyakarta
+TRX-202-0095,2026-08-08,Elektronik,7,1200000,Kartu Kredit,Yogyakarta
+TRX-202-0096,2026-08-29,Rumah Tangga,5,1200000,E-Wallet,Yogyakarta
+TRX-202-0097,2026-08-31,Elektronik,7,150000,E-Wallet,Yogyakarta
+TRX-202-0098,2026-08-09,Elektronik,9,150000,Transfer Bank,Yogyakarta
+TRX-202-0099,2026-08-07,Makanan & Minuman,1,50000,Transfer Bank,Yogyakarta
+TRX-202-0100,2026-08-01,Rumah Tangga,7,500000,COD,Yogyakarta
+TRX-202-0101,2026-08-03,Rumah Tangga,6,15000,Kartu Kredit,Yogyakarta
+TRX-202-0102,2026-08-13,Kesehatan & Kecantikan,9,1200000,Kartu Kredit,Yogyakarta
+TRX-202-0103,2026-08-28,Elektronik,1,50000,COD,Yogyakarta
+TRX-202-0104,2026-08-30,Elektronik,4,15000,Kartu Kredit,Yogyakarta
+TRX-202-0105,2026-08-25,Fashion,9,50000,Kartu Kredit,Yogyakarta
+TRX-202-0106,2026-08-31,Kesehatan & Kecantikan,4,150000,Kartu Kredit,Yogyakarta
+TRX-202-0107,2026-08-28,Fashion,3,1200000,Kartu Kredit,Yogyakarta
+TRX-202-0108,2026-08-17,Fashion,9,15000,Kartu Kredit,Yogyakarta
+TRX-202-0109,2026-08-25,Fashion,2,15000,Transfer Bank,Yogyakarta
+TRX-202-0110,2026-08-24,Makanan & Minuman,4,15000,Kartu Kredit,Yogyakarta

@@ -1,0 +1,119 @@
+id_transaksi,tanggal,kategori,unit_terjual,harga_satuan,metode_pembayaran,kota
+TRX-101-0001,2026-08-20,Fashion,5,15000,Transfer Bank,Magelang
+TRX-101-0002,2026-08-29,Rumah Tangga,6,150000,Kartu Kredit,Magelang
+TRX-101-0003,2026-08-15,Fashion,7,50000,Kartu Kredit,Magelang
+TRX-101-0004,2026-08-11,Elektronik,4,15000,Kartu Kredit,Magelang
+TRX-101-0005,2026-08-08,Kesehatan & Kecantikan,7,50000,Kartu Kredit,Magelang
+TRX-101-0006,2026-08-29,Kesehatan & Kecantikan,8,50000,COD,Magelang
+TRX-101-0007,2026-08-21,Kesehatan & Kecantikan,1,150000,E-Wallet,Magelang
+TRX-101-0008,2026-08-07,Rumah Tangga,6,50000,Transfer Bank,Magelang
+TRX-101-0009,2026-08-26,Elektronik,8,50000,Kartu Kredit,Magelang
+TRX-101-0010,2026-08-19,Rumah Tangga,5,150000,Kartu Kredit,Magelang
+TRX-101-0011,2026-08-23,Rumah Tangga,4,50000,Kartu Kredit,Magelang
+TRX-101-0012,2026-08-11,Elektronik,2,50000,COD,Magelang
+TRX-101-0013,2026-08-11,Elektronik,6,50000,Kartu Kredit,Magelang
+TRX-101-0014,2026-08-24,Elektronik,6,15000,Kartu Kredit,Magelang
+TRX-101-0015,2026-08-21,Elektronik,1,15000,Kartu Kredit,Magelang
+TRX-101-0016,2026-08-04,Kesehatan & Kecantikan,9,15000,E-Wallet,Magelang
+TRX-101-0017,2026-08-08,Makanan & Minuman,6,150000,COD,Magelang
+TRX-101-0018,2026-08-24,Makanan & Minuman,3,1200000,Kartu Kredit,Magelang
+TRX-101-0019,2026-08-03,Elektronik,4,50000,Transfer Bank,Magelang
+TRX-101-0020,2026-08-22,Makanan & Minuman,4,50000,Transfer Bank,Magelang
+TRX-101-0021,2026-08-21,Makanan & Minuman,3,150000,Transfer Bank,Magelang
+TRX-101-0022,2026-08-02,Elektronik,3,50000,COD,Magelang
+TRX-101-0023,2026-08-24,Makanan & Minuman,3,15000,COD,Magelang
+TRX-101-0024,2026-08-12,Rumah Tangga,4,1200000,Transfer Bank,Magelang
+TRX-101-0025,2026-08-30,Fashion,7,500000,Kartu Kredit,Magelang
+TRX-101-0026,2026-08-06,Fashion,4,50000,COD,Magelang
+TRX-101-0027,2026-08-02,Elektronik,9,15000,Transfer Bank,Magelang
+TRX-101-0028,2026-08-28,Kesehatan & Kecantikan,1,500000,Transfer Bank,Magelang
+TRX-101-0029,2026-08-21,Elektronik,8,1200000,Kartu Kredit,Magelang
+TRX-101-0030,2026-08-01,Kesehatan & Kecantikan,7,500000,E-Wallet,Magelang
+TRX-101-0031,2026-08-12,Fashion,2,15000,COD,Magelang
+TRX-101-0032,2026-08-26,Elektronik,8,500000,Kartu Kredit,Magelang
+TRX-101-0033,2026-08-22,Rumah Tangga,1,150000,Transfer Bank,Magelang
+TRX-101-0034,2026-08-29,Makanan & Minuman,9,500000,Transfer Bank,Magelang
+TRX-101-0035,2026-08-12,Kesehatan & Kecantikan,9,50000,Kartu Kredit,Magelang
+TRX-101-0036,2026-08-25,Makanan & Minuman,2,50000,COD,Magelang
+TRX-101-0037,2026-08-17,Makanan & Minuman,7,150000,E-Wallet,Magelang
+TRX-101-0038,2026-08-27,Elektronik,3,15000,E-Wallet,Magelang
+TRX-101-0039,2026-08-27,Makanan & Minuman,7,50000,Transfer Bank,Magelang
+TRX-101-0040,2026-08-31,Rumah Tangga,9,1200000,COD,Magelang
+TRX-101-0041,2026-08-10,Makanan & Minuman,4,50000,E-Wallet,Magelang
+TRX-101-0042,2026-08-28,Elektronik,1,50000,COD,Magelang
+TRX-101-0043,2026-08-28,Rumah Tangga,2,15000,COD,Magelang
+TRX-101-0044,2026-08-16,Fashion,1,500000,Transfer Bank,Magelang
+TRX-101-0045,2026-08-15,Makanan & Minuman,5,50000,E-Wallet,Magelang
+TRX-101-0046,2026-08-30,Elektronik,5,150000,Kartu Kredit,Magelang
+TRX-101-0047,2026-08-30,Fashion,7,500000,Transfer Bank,Magelang
+TRX-101-0048,2026-08-15,Fashion,9,1200000,E-Wallet,Magelang
+TRX-101-0049,2026-08-30,Kesehatan & Kecantikan,9,15000,E-Wallet,Magelang
+TRX-101-0050,2026-08-19,Rumah Tangga,3,1200000,E-Wallet,Magelang
+TRX-101-0051,2026-08-12,Makanan & Minuman,3,500000,E-Wallet,Magelang
+TRX-101-0052,2026-08-23,Elektronik,3,500000,E-Wallet,Magelang
+TRX-101-0053,2026-08-20,Kesehatan & Kecantikan,4,500000,COD,Magelang
+TRX-101-0054,2026-08-25,Rumah Tangga,8,1200000,Transfer Bank,Magelang
+TRX-101-0055,2026-08-03,Kesehatan & Kecantikan,6,500000,COD,Magelang
+TRX-101-0056,2026-08-05,Rumah Tangga,8,1200000,Kartu Kredit,Magelang
+TRX-101-0057,2026-08-19,Rumah Tangga,1,500000,E-Wallet,Magelang
+TRX-101-0058,2026-08-07,Makanan & Minuman,8,150000,Transfer Bank,Magelang
+TRX-101-0059,2026-08-21,Rumah Tangga,4,500000,E-Wallet,Magelang
+TRX-101-0060,2026-08-09,Kesehatan & Kecantikan,1,1200000,Transfer Bank,Magelang
+TRX-101-0061,2026-08-07,Rumah Tangga,8,50000,COD,Magelang
+TRX-101-0062,2026-08-18,Makanan & Minuman,4,500000,Transfer Bank,Magelang
+TRX-101-0063,2026-08-04,Makanan & Minuman,6,50000,Kartu Kredit,Magelang
+TRX-101-0064,2026-08-25,Kesehatan & Kecantikan,8,150000,Kartu Kredit,Magelang
+TRX-101-0065,2026-08-28,Fashion,4,15000,Transfer Bank,Magelang
+TRX-101-0066,2026-08-14,Fashion,3,150000,Transfer Bank,Magelang
+TRX-101-0067,2026-08-18,Rumah Tangga,9,500000,Transfer Bank,Magelang
+TRX-101-0068,2026-08-26,Elektronik,3,50000,Transfer Bank,Magelang
+TRX-101-0069,2026-08-09,Rumah Tangga,9,50000,Kartu Kredit,Magelang
+TRX-101-0070,2026-08-26,Kesehatan & Kecantikan,2,1200000,E-Wallet,Magelang
+TRX-101-0071,2026-08-21,Kesehatan & Kecantikan,2,50000,Transfer Bank,Magelang
+TRX-101-0072,2026-08-02,Kesehatan & Kecantikan,2,1200000,Transfer Bank,Magelang
+TRX-101-0073,2026-08-20,Kesehatan & Kecantikan,6,15000,Kartu Kredit,Magelang
+TRX-101-0074,2026-08-28,Kesehatan & Kecantikan,3,500000,Kartu Kredit,Magelang
+TRX-101-0075,2026-08-15,Makanan & Minuman,9,1200000,COD,Magelang
+TRX-101-0076,2026-08-28,Fashion,4,15000,Transfer Bank,Magelang
+TRX-101-0077,2026-08-07,Kesehatan & Kecantikan,1,50000,COD,Magelang
+TRX-101-0078,2026-08-12,Elektronik,4,50000,Kartu Kredit,Magelang
+TRX-101-0079,2026-08-29,Elektronik,1,15000,Kartu Kredit,Magelang
+TRX-101-0080,2026-08-08,Elektronik,5,50000,E-Wallet,Magelang
+TRX-101-0081,2026-08-15,Elektronik,4,15000,Transfer Bank,Magelang
+TRX-101-0082,2026-08-03,Makanan & Minuman,8,1200000,COD,Magelang
+TRX-101-0083,2026-08-14,Elektronik,8,1200000,Kartu Kredit,Magelang
+TRX-101-0084,2026-08-17,Kesehatan & Kecantikan,7,15000,Kartu Kredit,Magelang
+TRX-101-0085,2026-08-04,Rumah Tangga,3,1200000,COD,Magelang
+TRX-101-0086,2026-08-18,Elektronik,1,1200000,E-Wallet,Magelang
+TRX-101-0087,2026-08-08,Makanan & Minuman,1,1200000,Kartu Kredit,Magelang
+TRX-101-0088,2026-08-04,Makanan & Minuman,3,150000,Transfer Bank,Magelang
+TRX-101-0089,2026-08-02,Elektronik,6,500000,Kartu Kredit,Magelang
+TRX-101-0090,2026-08-30,Rumah Tangga,7,50000,Transfer Bank,Magelang
+TRX-101-0091,2026-08-06,Elektronik,6,150000,COD,Magelang
+TRX-101-0092,2026-08-22,Makanan & Minuman,6,1200000,Transfer Bank,Magelang
+TRX-101-0093,2026-08-10,Fashion,6,15000,COD,Magelang
+TRX-101-0094,2026-08-04,Kesehatan & Kecantikan,3,1200000,Transfer Bank,Magelang
+TRX-101-0095,2026-08-22,Makanan & Minuman,6,500000,COD,Magelang
+TRX-101-0096,2026-08-29,Elektronik,8,1200000,Transfer Bank,Magelang
+TRX-101-0097,2026-08-31,Kesehatan & Kecantikan,2,15000,E-Wallet,Magelang
+TRX-101-0098,2026-08-18,Elektronik,5,500000,Transfer Bank,Magelang
+TRX-101-0099,2026-08-26,Elektronik,1,1200000,Transfer Bank,Magelang
+TRX-101-0100,2026-08-12,Fashion,1,500000,E-Wallet,Magelang
+TRX-101-0101,2026-08-02,Kesehatan & Kecantikan,5,50000,Kartu Kredit,Magelang
+TRX-101-0102,2026-08-10,Kesehatan & Kecantikan,3,50000,Kartu Kredit,Magelang
+TRX-101-0103,2026-08-30,Fashion,4,1200000,Transfer Bank,Magelang
+TRX-101-0104,2026-08-04,Makanan & Minuman,3,500000,E-Wallet,Magelang
+TRX-101-0105,2026-08-14,Elektronik,1,15000,Transfer Bank,Magelang
+TRX-101-0106,2026-08-31,Rumah Tangga,1,1200000,COD,Magelang
+TRX-101-0107,2026-08-16,Elektronik,5,50000,COD,Magelang
+TRX-101-0108,2026-08-15,Elektronik,6,50000,Transfer Bank,Magelang
+TRX-101-0109,2026-08-08,Makanan & Minuman,3,1200000,Kartu Kredit,Magelang
+TRX-101-0110,2026-08-14,Elektronik,9,500000,Kartu Kredit,Magelang
+TRX-101-0111,2026-08-23,Fashion,5,50000,Transfer Bank,Magelang
+TRX-101-0112,2026-08-28,Fashion,8,500000,Transfer Bank,Magelang
+TRX-101-0113,2026-08-25,Kesehatan & Kecantikan,1,50000,COD,Magelang
+TRX-101-0114,2026-08-30,Rumah Tangga,5,50000,Kartu Kredit,Magelang
+TRX-101-0115,2026-08-08,Elektronik,3,150000,Transfer Bank,Magelang
+TRX-101-0116,2026-08-21,Elektronik,1,50000,COD,Magelang
+TRX-101-0117,2026-08-16,Makanan & Minuman,4,15000,Kartu Kredit,Magelang
+TRX-101-0118,2026-08-13,Fashion,5,1200000,E-Wallet,Magelang
