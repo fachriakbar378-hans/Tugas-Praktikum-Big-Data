@@ -1,0 +1,601 @@
+id_transaksi,kategori,kota,metode_bayar,jumlah,harga_satuan
+TRX1000,Kesehatan & Kecantikan,Semarang,E-Wallet,9,15000
+TRX1001,Rumah Tangga,Solo,Kartu Kredit,6,15000
+TRX1002,Makanan & Minuman,Purworejo,E-Wallet,6,15000
+TRX1003,Rumah Tangga,Solo,Kartu Kredit,5,15000
+TRX1004,Rumah Tangga,Semarang,E-Wallet,5,50000
+TRX1005,Fashion,Semarang,COD,2,250000
+TRX1006,Makanan & Minuman,Solo,Transfer Bank,8,500000
+TRX1007,Makanan & Minuman,Magelang,COD,8,15000
+TRX1008,Makanan & Minuman,Yogyakarta,Transfer Bank,1,50000
+TRX1009,Rumah Tangga,Magelang,Kartu Kredit,8,50000
+TRX1010,Kesehatan & Kecantikan,Magelang,COD,5,50000
+TRX1011,Makanan & Minuman,Magelang,E-Wallet,2,250000
+TRX1012,Rumah Tangga,Purworejo,Transfer Bank,2,500000
+TRX1013,Fashion,Semarang,Transfer Bank,6,250000
+TRX1014,Kesehatan & Kecantikan,Magelang,COD,9,100000
+TRX1015,Fashion,Semarang,Kartu Kredit,1,50000
+TRX1016,Kesehatan & Kecantikan,Solo,COD,6,100000
+TRX1017,Rumah Tangga,Yogyakarta,Kartu Kredit,9,15000
+TRX1018,Elektronik,Solo,Kartu Kredit,8,15000
+TRX1019,Kesehatan & Kecantikan,Solo,Transfer Bank,6,250000
+TRX1020,Fashion,Purworejo,COD,3,500000
+TRX1021,Rumah Tangga,Yogyakarta,COD,8,100000
+TRX1022,Kesehatan & Kecantikan,Solo,Kartu Kredit,9,500000
+TRX1023,Elektronik,Solo,COD,1,250000
+TRX1024,Elektronik,Yogyakarta,E-Wallet,9,15000
+TRX1025,Makanan & Minuman,Yogyakarta,E-Wallet,6,500000
+TRX1026,Makanan & Minuman,Solo,COD,6,500000
+TRX1027,Fashion,Yogyakarta,COD,4,15000
+TRX1028,Kesehatan & Kecantikan,Solo,Kartu Kredit,1,100000
+TRX1029,Kesehatan & Kecantikan,Solo,E-Wallet,8,15000
+TRX1030,Makanan & Minuman,Purworejo,E-Wallet,2,500000
+TRX1031,Kesehatan & Kecantikan,Magelang,Transfer Bank,1,100000
+TRX1032,Kesehatan & Kecantikan,Solo,Kartu Kredit,2,100000
+TRX1033,Elektronik,Semarang,Transfer Bank,1,15000
+TRX1034,Makanan & Minuman,Magelang,E-Wallet,1,500000
+TRX1035,Rumah Tangga,Magelang,Kartu Kredit,9,250000
+TRX1036,Makanan & Minuman,Magelang,COD,1,500000
+TRX1037,Rumah Tangga,Purworejo,Kartu Kredit,4,50000
+TRX1038,Elektronik,Solo,COD,6,250000
+TRX1039,Fashion,Purworejo,COD,7,100000
+TRX1040,Kesehatan & Kecantikan,Solo,Kartu Kredit,2,250000
+TRX1041,Elektronik,Purworejo,COD,6,100000
+TRX1042,Kesehatan & Kecantikan,Purworejo,Transfer Bank,7,100000
+TRX1043,Fashion,Semarang,E-Wallet,2,250000
+TRX1044,Fashion,Purworejo,COD,2,100000
+TRX1045,Elektronik,Yogyakarta,Transfer Bank,7,100000
+TRX1046,Fashion,Semarang,COD,1,50000
+TRX1047,Rumah Tangga,Purworejo,E-Wallet,8,500000
+TRX1048,Fashion,Magelang,Transfer Bank,3,500000
+TRX1049,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,6,50000
+TRX1050,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,9,250000
+TRX1051,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,6,15000
+TRX1052,Kesehatan & Kecantikan,Semarang,Transfer Bank,9,15000
+TRX1053,Rumah Tangga,Purworejo,Transfer Bank,7,15000
+TRX1054,Makanan & Minuman,Purworejo,Kartu Kredit,9,50000
+TRX1055,Elektronik,Magelang,Transfer Bank,2,50000
+TRX1056,Kesehatan & Kecantikan,Magelang,Transfer Bank,8,100000
+TRX1057,Fashion,Yogyakarta,Transfer Bank,8,15000
+TRX1058,Kesehatan & Kecantikan,Magelang,Transfer Bank,2,250000
+TRX1059,Fashion,Semarang,COD,4,250000
+TRX1060,Fashion,Purworejo,Kartu Kredit,7,15000
+TRX1061,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,4,15000
+TRX1062,Rumah Tangga,Magelang,Transfer Bank,4,15000
+TRX1063,Fashion,Semarang,COD,6,50000
+TRX1064,Fashion,Semarang,COD,6,50000
+TRX1065,Kesehatan & Kecantikan,Magelang,COD,3,50000
+TRX1066,Fashion,Purworejo,E-Wallet,9,500000
+TRX1067,Fashion,Magelang,Transfer Bank,2,250000
+TRX1068,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,6,250000
+TRX1069,Kesehatan & Kecantikan,Magelang,Kartu Kredit,7,100000
+TRX1070,Elektronik,Semarang,COD,9,50000
+TRX1071,Rumah Tangga,Magelang,E-Wallet,3,500000
+TRX1072,Rumah Tangga,Purworejo,E-Wallet,3,500000
+TRX1073,Fashion,Solo,E-Wallet,7,250000
+TRX1074,Rumah Tangga,Magelang,Kartu Kredit,4,50000
+TRX1075,Fashion,Purworejo,COD,8,100000
+TRX1076,Elektronik,Purworejo,Transfer Bank,7,50000
+TRX1077,Kesehatan & Kecantikan,Semarang,Kartu Kredit,5,15000
+TRX1078,Kesehatan & Kecantikan,Purworejo,COD,7,50000
+TRX1079,Kesehatan & Kecantikan,Purworejo,COD,3,15000
+TRX1080,Rumah Tangga,Purworejo,Transfer Bank,2,15000
+TRX1081,Elektronik,Purworejo,Transfer Bank,6,100000
+TRX1082,Rumah Tangga,Yogyakarta,Transfer Bank,2,250000
+TRX1083,Rumah Tangga,Yogyakarta,E-Wallet,3,50000
+TRX1084,Elektronik,Semarang,Transfer Bank,6,15000
+TRX1085,Elektronik,Magelang,COD,5,50000
+TRX1086,Elektronik,Purworejo,Transfer Bank,8,250000
+TRX1087,Elektronik,Magelang,COD,9,250000
+TRX1088,Kesehatan & Kecantikan,Magelang,Kartu Kredit,3,500000
+TRX1089,Makanan & Minuman,Semarang,E-Wallet,3,250000
+TRX1090,Makanan & Minuman,Purworejo,Kartu Kredit,3,100000
+TRX1091,Elektronik,Purworejo,Kartu Kredit,6,15000
+TRX1092,Makanan & Minuman,Solo,COD,1,500000
+TRX1093,Makanan & Minuman,Magelang,Kartu Kredit,7,100000
+TRX1094,Elektronik,Magelang,COD,1,50000
+TRX1095,Makanan & Minuman,Yogyakarta,Transfer Bank,5,15000
+TRX1096,Rumah Tangga,Solo,Transfer Bank,8,250000
+TRX1097,Fashion,Yogyakarta,COD,4,15000
+TRX1098,Fashion,Yogyakarta,Transfer Bank,5,50000
+TRX1099,Elektronik,Yogyakarta,E-Wallet,4,500000
+TRX1100,Kesehatan & Kecantikan,Semarang,Kartu Kredit,4,500000
+TRX1101,Elektronik,Semarang,E-Wallet,8,500000
+TRX1102,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,2,250000
+TRX1103,Fashion,Solo,Transfer Bank,1,100000
+TRX1104,Elektronik,Magelang,E-Wallet,3,100000
+TRX1105,Rumah Tangga,Solo,Transfer Bank,9,15000
+TRX1106,Makanan & Minuman,Purworejo,Kartu Kredit,4,250000
+TRX1107,Kesehatan & Kecantikan,Semarang,COD,5,500000
+TRX1108,Makanan & Minuman,Magelang,COD,2,500000
+TRX1109,Makanan & Minuman,Magelang,E-Wallet,4,50000
+TRX1110,Elektronik,Purworejo,Transfer Bank,2,50000
+TRX1111,Makanan & Minuman,Purworejo,Transfer Bank,2,500000
+TRX1112,Rumah Tangga,Yogyakarta,E-Wallet,4,500000
+TRX1113,Makanan & Minuman,Semarang,COD,6,250000
+TRX1114,Elektronik,Semarang,Kartu Kredit,7,100000
+TRX1115,Rumah Tangga,Solo,E-Wallet,3,50000
+TRX1116,Fashion,Yogyakarta,Kartu Kredit,3,100000
+TRX1117,Makanan & Minuman,Yogyakarta,COD,6,250000
+TRX1118,Elektronik,Yogyakarta,Transfer Bank,3,500000
+TRX1119,Fashion,Yogyakarta,COD,2,100000
+TRX1120,Fashion,Semarang,E-Wallet,8,500000
+TRX1121,Kesehatan & Kecantikan,Semarang,Transfer Bank,5,500000
+TRX1122,Rumah Tangga,Yogyakarta,E-Wallet,1,15000
+TRX1123,Makanan & Minuman,Solo,E-Wallet,3,100000
+TRX1124,Elektronik,Magelang,COD,8,100000
+TRX1125,Kesehatan & Kecantikan,Magelang,E-Wallet,4,500000
+TRX1126,Rumah Tangga,Solo,COD,7,250000
+TRX1127,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,2,15000
+TRX1128,Rumah Tangga,Semarang,COD,7,500000
+TRX1129,Rumah Tangga,Magelang,Transfer Bank,5,50000
+TRX1130,Makanan & Minuman,Purworejo,COD,5,50000
+TRX1131,Rumah Tangga,Purworejo,Kartu Kredit,6,15000
+TRX1132,Kesehatan & Kecantikan,Solo,Kartu Kredit,9,250000
+TRX1133,Rumah Tangga,Yogyakarta,E-Wallet,6,500000
+TRX1134,Makanan & Minuman,Magelang,COD,8,100000
+TRX1135,Makanan & Minuman,Yogyakarta,COD,7,15000
+TRX1136,Kesehatan & Kecantikan,Magelang,Transfer Bank,9,250000
+TRX1137,Fashion,Solo,E-Wallet,4,100000
+TRX1138,Fashion,Solo,COD,2,50000
+TRX1139,Rumah Tangga,Purworejo,E-Wallet,7,50000
+TRX1140,Elektronik,Yogyakarta,Kartu Kredit,6,100000
+TRX1141,Rumah Tangga,Purworejo,COD,1,15000
+TRX1142,Kesehatan & Kecantikan,Yogyakarta,COD,9,50000
+TRX1143,Kesehatan & Kecantikan,Purworejo,E-Wallet,9,500000
+TRX1144,Kesehatan & Kecantikan,Semarang,COD,2,100000
+TRX1145,Kesehatan & Kecantikan,Semarang,E-Wallet,3,100000
+TRX1146,Kesehatan & Kecantikan,Semarang,COD,5,50000
+TRX1147,Makanan & Minuman,Semarang,Transfer Bank,5,15000
+TRX1148,Fashion,Magelang,E-Wallet,1,500000
+TRX1149,Kesehatan & Kecantikan,Semarang,COD,8,15000
+TRX1150,Elektronik,Solo,Kartu Kredit,8,250000
+TRX1151,Elektronik,Solo,COD,4,250000
+TRX1152,Elektronik,Magelang,Kartu Kredit,7,50000
+TRX1153,Elektronik,Semarang,Kartu Kredit,3,50000
+TRX1154,Makanan & Minuman,Semarang,Transfer Bank,6,50000
+TRX1155,Elektronik,Semarang,E-Wallet,9,250000
+TRX1156,Kesehatan & Kecantikan,Purworejo,COD,1,15000
+TRX1157,Rumah Tangga,Yogyakarta,Transfer Bank,5,15000
+TRX1158,Elektronik,Purworejo,COD,4,50000
+TRX1159,Makanan & Minuman,Yogyakarta,Kartu Kredit,8,500000
+TRX1160,Makanan & Minuman,Semarang,E-Wallet,1,15000
+TRX1161,Elektronik,Semarang,COD,9,250000
+TRX1162,Rumah Tangga,Purworejo,COD,6,100000
+TRX1163,Elektronik,Purworejo,Kartu Kredit,4,100000
+TRX1164,Makanan & Minuman,Yogyakarta,COD,9,100000
+TRX1165,Fashion,Solo,COD,5,500000
+TRX1166,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,5,50000
+TRX1167,Makanan & Minuman,Purworejo,Transfer Bank,5,250000
+TRX1168,Elektronik,Purworejo,Kartu Kredit,1,500000
+TRX1169,Kesehatan & Kecantikan,Magelang,Transfer Bank,1,250000
+TRX1170,Elektronik,Purworejo,E-Wallet,8,250000
+TRX1171,Elektronik,Magelang,Transfer Bank,8,50000
+TRX1172,Fashion,Solo,Transfer Bank,6,100000
+TRX1173,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,4,50000
+TRX1174,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,2,500000
+TRX1175,Fashion,Magelang,Kartu Kredit,2,500000
+TRX1176,Makanan & Minuman,Yogyakarta,Transfer Bank,9,500000
+TRX1177,Elektronik,Purworejo,E-Wallet,5,50000
+TRX1178,Rumah Tangga,Semarang,Kartu Kredit,4,250000
+TRX1179,Elektronik,Magelang,E-Wallet,1,250000
+TRX1180,Elektronik,Yogyakarta,E-Wallet,7,15000
+TRX1181,Makanan & Minuman,Magelang,COD,3,500000
+TRX1182,Elektronik,Magelang,COD,6,250000
+TRX1183,Fashion,Semarang,E-Wallet,5,15000
+TRX1184,Fashion,Purworejo,E-Wallet,5,250000
+TRX1185,Kesehatan & Kecantikan,Magelang,E-Wallet,5,500000
+TRX1186,Rumah Tangga,Yogyakarta,COD,1,100000
+TRX1187,Elektronik,Solo,COD,1,500000
+TRX1188,Elektronik,Magelang,Transfer Bank,3,50000
+TRX1189,Makanan & Minuman,Magelang,Transfer Bank,4,250000
+TRX1190,Fashion,Semarang,E-Wallet,5,250000
+TRX1191,Rumah Tangga,Purworejo,Kartu Kredit,2,50000
+TRX1192,Kesehatan & Kecantikan,Solo,Kartu Kredit,8,50000
+TRX1193,Fashion,Yogyakarta,COD,2,100000
+TRX1194,Kesehatan & Kecantikan,Solo,COD,9,250000
+TRX1195,Makanan & Minuman,Yogyakarta,COD,2,250000
+TRX1196,Makanan & Minuman,Purworejo,E-Wallet,9,100000
+TRX1197,Elektronik,Yogyakarta,Kartu Kredit,7,15000
+TRX1198,Rumah Tangga,Semarang,Transfer Bank,8,100000
+TRX1199,Kesehatan & Kecantikan,Semarang,E-Wallet,2,500000
+TRX1200,Fashion,Semarang,Transfer Bank,7,250000
+TRX1201,Makanan & Minuman,Semarang,Transfer Bank,6,50000
+TRX1202,Elektronik,Solo,E-Wallet,4,500000
+TRX1203,Elektronik,Purworejo,Transfer Bank,7,250000
+TRX1204,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,4,100000
+TRX1205,Makanan & Minuman,Yogyakarta,Transfer Bank,2,500000
+TRX1206,Rumah Tangga,Semarang,Kartu Kredit,7,250000
+TRX1207,Makanan & Minuman,Semarang,Kartu Kredit,8,15000
+TRX1208,Kesehatan & Kecantikan,Magelang,Kartu Kredit,2,15000
+TRX1209,Kesehatan & Kecantikan,Purworejo,COD,5,50000
+TRX1210,Makanan & Minuman,Solo,Transfer Bank,1,250000
+TRX1211,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,7,15000
+TRX1212,Makanan & Minuman,Magelang,E-Wallet,8,100000
+TRX1213,Fashion,Magelang,Transfer Bank,6,250000
+TRX1214,Makanan & Minuman,Yogyakarta,COD,5,100000
+TRX1215,Makanan & Minuman,Solo,COD,6,100000
+TRX1216,Kesehatan & Kecantikan,Magelang,Kartu Kredit,2,15000
+TRX1217,Kesehatan & Kecantikan,Magelang,Transfer Bank,1,250000
+TRX1218,Elektronik,Purworejo,Transfer Bank,7,500000
+TRX1219,Elektronik,Solo,E-Wallet,7,15000
+TRX1220,Fashion,Magelang,Transfer Bank,2,15000
+TRX1221,Elektronik,Solo,COD,2,250000
+TRX1222,Makanan & Minuman,Yogyakarta,Transfer Bank,1,250000
+TRX1223,Kesehatan & Kecantikan,Semarang,E-Wallet,8,100000
+TRX1224,Elektronik,Magelang,Kartu Kredit,8,250000
+TRX1225,Elektronik,Purworejo,E-Wallet,1,100000
+TRX1226,Fashion,Yogyakarta,E-Wallet,8,15000
+TRX1227,Fashion,Solo,Kartu Kredit,9,50000
+TRX1228,Makanan & Minuman,Yogyakarta,E-Wallet,4,500000
+TRX1229,Kesehatan & Kecantikan,Magelang,E-Wallet,1,15000
+TRX1230,Fashion,Solo,Transfer Bank,1,250000
+TRX1231,Elektronik,Semarang,Transfer Bank,3,500000
+TRX1232,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,5,50000
+TRX1233,Kesehatan & Kecantikan,Magelang,Transfer Bank,5,50000
+TRX1234,Elektronik,Purworejo,Transfer Bank,9,100000
+TRX1235,Fashion,Solo,E-Wallet,2,500000
+TRX1236,Elektronik,Yogyakarta,COD,2,100000
+TRX1237,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,6,15000
+TRX1238,Rumah Tangga,Semarang,COD,9,500000
+TRX1239,Rumah Tangga,Semarang,Transfer Bank,1,15000
+TRX1240,Makanan & Minuman,Purworejo,Transfer Bank,9,100000
+TRX1241,Elektronik,Purworejo,Kartu Kredit,9,500000
+TRX1242,Elektronik,Magelang,Kartu Kredit,9,100000
+TRX1243,Makanan & Minuman,Magelang,Kartu Kredit,5,500000
+TRX1244,Makanan & Minuman,Purworejo,COD,9,100000
+TRX1245,Makanan & Minuman,Purworejo,E-Wallet,4,50000
+TRX1246,Kesehatan & Kecantikan,Solo,Transfer Bank,2,100000
+TRX1247,Elektronik,Semarang,Transfer Bank,6,50000
+TRX1248,Kesehatan & Kecantikan,Magelang,Transfer Bank,4,100000
+TRX1249,Makanan & Minuman,Semarang,COD,6,500000
+TRX1250,Elektronik,Semarang,Kartu Kredit,3,500000
+TRX1251,Kesehatan & Kecantikan,Purworejo,E-Wallet,6,500000
+TRX1252,Kesehatan & Kecantikan,Solo,COD,2,250000
+TRX1253,Makanan & Minuman,Yogyakarta,Kartu Kredit,2,15000
+TRX1254,Elektronik,Solo,COD,9,500000
+TRX1255,Makanan & Minuman,Solo,E-Wallet,7,50000
+TRX1256,Elektronik,Semarang,Kartu Kredit,3,500000
+TRX1257,Rumah Tangga,Solo,COD,1,250000
+TRX1258,Fashion,Magelang,E-Wallet,8,50000
+TRX1259,Fashion,Semarang,Transfer Bank,6,250000
+TRX1260,Fashion,Magelang,E-Wallet,7,50000
+TRX1261,Makanan & Minuman,Yogyakarta,Transfer Bank,9,100000
+TRX1262,Rumah Tangga,Semarang,COD,5,15000
+TRX1263,Elektronik,Yogyakarta,Kartu Kredit,1,15000
+TRX1264,Kesehatan & Kecantikan,Semarang,Kartu Kredit,7,250000
+TRX1265,Elektronik,Purworejo,COD,5,15000
+TRX1266,Kesehatan & Kecantikan,Solo,Kartu Kredit,3,250000
+TRX1267,Elektronik,Purworejo,Kartu Kredit,9,250000
+TRX1268,Rumah Tangga,Yogyakarta,Transfer Bank,1,250000
+TRX1269,Kesehatan & Kecantikan,Solo,COD,1,15000
+TRX1270,Makanan & Minuman,Semarang,E-Wallet,1,250000
+TRX1271,Elektronik,Solo,Transfer Bank,3,15000
+TRX1272,Elektronik,Magelang,COD,6,250000
+TRX1273,Kesehatan & Kecantikan,Solo,Transfer Bank,3,500000
+TRX1274,Makanan & Minuman,Magelang,E-Wallet,8,250000
+TRX1275,Makanan & Minuman,Solo,E-Wallet,2,50000
+TRX1276,Rumah Tangga,Magelang,COD,9,250000
+TRX1277,Makanan & Minuman,Yogyakarta,E-Wallet,3,100000
+TRX1278,Makanan & Minuman,Purworejo,Transfer Bank,5,250000
+TRX1279,Makanan & Minuman,Semarang,E-Wallet,8,50000
+TRX1280,Fashion,Solo,Transfer Bank,2,50000
+TRX1281,Rumah Tangga,Purworejo,Transfer Bank,6,15000
+TRX1282,Elektronik,Semarang,E-Wallet,5,500000
+TRX1283,Kesehatan & Kecantikan,Semarang,COD,9,250000
+TRX1284,Elektronik,Magelang,Kartu Kredit,5,15000
+TRX1285,Rumah Tangga,Yogyakarta,E-Wallet,2,500000
+TRX1286,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,5,250000
+TRX1287,Rumah Tangga,Purworejo,Transfer Bank,4,100000
+TRX1288,Makanan & Minuman,Yogyakarta,E-Wallet,7,250000
+TRX1289,Kesehatan & Kecantikan,Solo,COD,6,50000
+TRX1290,Makanan & Minuman,Yogyakarta,COD,2,50000
+TRX1291,Elektronik,Purworejo,Transfer Bank,5,100000
+TRX1292,Elektronik,Yogyakarta,Transfer Bank,7,15000
+TRX1293,Kesehatan & Kecantikan,Solo,COD,7,500000
+TRX1294,Kesehatan & Kecantikan,Magelang,Kartu Kredit,5,250000
+TRX1295,Rumah Tangga,Purworejo,E-Wallet,9,50000
+TRX1296,Rumah Tangga,Magelang,Transfer Bank,4,15000
+TRX1297,Makanan & Minuman,Magelang,Transfer Bank,3,100000
+TRX1298,Kesehatan & Kecantikan,Magelang,COD,4,50000
+TRX1299,Elektronik,Semarang,E-Wallet,5,100000
+TRX1300,Rumah Tangga,Semarang,COD,6,250000
+TRX1301,Rumah Tangga,Magelang,E-Wallet,3,500000
+TRX1302,Elektronik,Purworejo,E-Wallet,2,50000
+TRX1303,Rumah Tangga,Solo,E-Wallet,4,50000
+TRX1304,Makanan & Minuman,Solo,Transfer Bank,5,250000
+TRX1305,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,4,15000
+TRX1306,Elektronik,Purworejo,COD,3,500000
+TRX1307,Kesehatan & Kecantikan,Semarang,Kartu Kredit,8,50000
+TRX1308,Rumah Tangga,Magelang,COD,4,500000
+TRX1309,Rumah Tangga,Yogyakarta,E-Wallet,2,50000
+TRX1310,Elektronik,Solo,Transfer Bank,2,500000
+TRX1311,Makanan & Minuman,Semarang,Kartu Kredit,1,100000
+TRX1312,Fashion,Semarang,Transfer Bank,4,50000
+TRX1313,Elektronik,Magelang,COD,9,500000
+TRX1314,Fashion,Solo,Transfer Bank,7,15000
+TRX1315,Fashion,Purworejo,Transfer Bank,7,100000
+TRX1316,Makanan & Minuman,Semarang,Kartu Kredit,7,100000
+TRX1317,Fashion,Magelang,E-Wallet,8,15000
+TRX1318,Fashion,Purworejo,Transfer Bank,1,500000
+TRX1319,Makanan & Minuman,Solo,E-Wallet,8,250000
+TRX1320,Fashion,Semarang,COD,4,15000
+TRX1321,Fashion,Purworejo,Transfer Bank,4,500000
+TRX1322,Fashion,Purworejo,Kartu Kredit,4,15000
+TRX1323,Elektronik,Purworejo,COD,6,15000
+TRX1324,Elektronik,Semarang,COD,7,50000
+TRX1325,Elektronik,Semarang,Kartu Kredit,6,500000
+TRX1326,Makanan & Minuman,Yogyakarta,Transfer Bank,1,250000
+TRX1327,Rumah Tangga,Solo,Transfer Bank,8,50000
+TRX1328,Fashion,Magelang,COD,7,15000
+TRX1329,Fashion,Purworejo,Transfer Bank,6,15000
+TRX1330,Makanan & Minuman,Yogyakarta,E-Wallet,6,15000
+TRX1331,Fashion,Magelang,Kartu Kredit,5,500000
+TRX1332,Elektronik,Yogyakarta,E-Wallet,6,500000
+TRX1333,Rumah Tangga,Semarang,Transfer Bank,9,50000
+TRX1334,Kesehatan & Kecantikan,Purworejo,COD,9,250000
+TRX1335,Fashion,Magelang,Kartu Kredit,8,50000
+TRX1336,Elektronik,Magelang,Transfer Bank,9,100000
+TRX1337,Kesehatan & Kecantikan,Magelang,Transfer Bank,8,15000
+TRX1338,Rumah Tangga,Magelang,COD,8,15000
+TRX1339,Kesehatan & Kecantikan,Magelang,COD,1,15000
+TRX1340,Elektronik,Yogyakarta,E-Wallet,5,50000
+TRX1341,Kesehatan & Kecantikan,Purworejo,Kartu Kredit,4,50000
+TRX1342,Makanan & Minuman,Semarang,Kartu Kredit,2,15000
+TRX1343,Kesehatan & Kecantikan,Semarang,COD,8,50000
+TRX1344,Fashion,Semarang,E-Wallet,3,500000
+TRX1345,Fashion,Semarang,Kartu Kredit,4,500000
+TRX1346,Makanan & Minuman,Yogyakarta,COD,7,50000
+TRX1347,Elektronik,Solo,Transfer Bank,9,15000
+TRX1348,Fashion,Purworejo,Kartu Kredit,2,50000
+TRX1349,Rumah Tangga,Magelang,E-Wallet,3,50000
+TRX1350,Fashion,Solo,E-Wallet,4,50000
+TRX1351,Fashion,Semarang,E-Wallet,1,100000
+TRX1352,Elektronik,Solo,Transfer Bank,7,500000
+TRX1353,Kesehatan & Kecantikan,Purworejo,Kartu Kredit,2,250000
+TRX1354,Fashion,Magelang,Kartu Kredit,5,250000
+TRX1355,Makanan & Minuman,Magelang,Transfer Bank,1,100000
+TRX1356,Kesehatan & Kecantikan,Purworejo,Kartu Kredit,3,50000
+TRX1357,Rumah Tangga,Purworejo,Transfer Bank,2,100000
+TRX1358,Elektronik,Semarang,Transfer Bank,1,100000
+TRX1359,Rumah Tangga,Magelang,Transfer Bank,7,15000
+TRX1360,Kesehatan & Kecantikan,Solo,E-Wallet,5,500000
+TRX1361,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,1,250000
+TRX1362,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,6,50000
+TRX1363,Rumah Tangga,Purworejo,Kartu Kredit,5,250000
+TRX1364,Kesehatan & Kecantikan,Semarang,E-Wallet,3,250000
+TRX1365,Rumah Tangga,Yogyakarta,Transfer Bank,7,500000
+TRX1366,Kesehatan & Kecantikan,Magelang,COD,9,250000
+TRX1367,Makanan & Minuman,Purworejo,E-Wallet,9,250000
+TRX1368,Kesehatan & Kecantikan,Solo,COD,9,100000
+TRX1369,Rumah Tangga,Purworejo,Kartu Kredit,2,500000
+TRX1370,Fashion,Solo,Kartu Kredit,3,15000
+TRX1371,Kesehatan & Kecantikan,Purworejo,E-Wallet,7,50000
+TRX1372,Fashion,Purworejo,Kartu Kredit,5,250000
+TRX1373,Makanan & Minuman,Purworejo,COD,2,50000
+TRX1374,Elektronik,Solo,Transfer Bank,3,15000
+TRX1375,Makanan & Minuman,Solo,Transfer Bank,6,50000
+TRX1376,Kesehatan & Kecantikan,Purworejo,Transfer Bank,7,15000
+TRX1377,Fashion,Yogyakarta,E-Wallet,9,100000
+TRX1378,Fashion,Semarang,Kartu Kredit,1,250000
+TRX1379,Rumah Tangga,Semarang,COD,7,15000
+TRX1380,Fashion,Semarang,Kartu Kredit,8,50000
+TRX1381,Rumah Tangga,Solo,Kartu Kredit,3,250000
+TRX1382,Elektronik,Solo,Kartu Kredit,4,100000
+TRX1383,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,6,250000
+TRX1384,Rumah Tangga,Semarang,COD,7,15000
+TRX1385,Elektronik,Semarang,COD,4,100000
+TRX1386,Fashion,Purworejo,Kartu Kredit,8,50000
+TRX1387,Fashion,Solo,Transfer Bank,5,100000
+TRX1388,Elektronik,Semarang,Transfer Bank,1,100000
+TRX1389,Fashion,Yogyakarta,COD,4,500000
+TRX1390,Elektronik,Yogyakarta,Transfer Bank,3,100000
+TRX1391,Rumah Tangga,Semarang,Transfer Bank,9,100000
+TRX1392,Rumah Tangga,Solo,Transfer Bank,8,250000
+TRX1393,Elektronik,Yogyakarta,E-Wallet,1,50000
+TRX1394,Rumah Tangga,Purworejo,Kartu Kredit,6,250000
+TRX1395,Rumah Tangga,Yogyakarta,COD,9,250000
+TRX1396,Rumah Tangga,Magelang,COD,7,15000
+TRX1397,Makanan & Minuman,Magelang,E-Wallet,4,250000
+TRX1398,Kesehatan & Kecantikan,Solo,Kartu Kredit,1,500000
+TRX1399,Fashion,Semarang,COD,2,500000
+TRX1400,Makanan & Minuman,Solo,Transfer Bank,5,15000
+TRX1401,Rumah Tangga,Solo,COD,5,50000
+TRX1402,Elektronik,Solo,Transfer Bank,8,50000
+TRX1403,Rumah Tangga,Solo,E-Wallet,6,250000
+TRX1404,Kesehatan & Kecantikan,Purworejo,Transfer Bank,8,250000
+TRX1405,Rumah Tangga,Purworejo,COD,2,250000
+TRX1406,Elektronik,Yogyakarta,COD,3,50000
+TRX1407,Kesehatan & Kecantikan,Magelang,COD,6,100000
+TRX1408,Rumah Tangga,Solo,E-Wallet,3,500000
+TRX1409,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,6,100000
+TRX1410,Fashion,Magelang,Kartu Kredit,6,100000
+TRX1411,Fashion,Semarang,COD,2,50000
+TRX1412,Rumah Tangga,Purworejo,Transfer Bank,7,100000
+TRX1413,Kesehatan & Kecantikan,Magelang,E-Wallet,2,15000
+TRX1414,Elektronik,Semarang,COD,6,250000
+TRX1415,Rumah Tangga,Magelang,COD,1,15000
+TRX1416,Fashion,Purworejo,E-Wallet,3,500000
+TRX1417,Fashion,Purworejo,Kartu Kredit,2,250000
+TRX1418,Rumah Tangga,Yogyakarta,E-Wallet,7,100000
+TRX1419,Kesehatan & Kecantikan,Solo,E-Wallet,4,500000
+TRX1420,Fashion,Magelang,Transfer Bank,8,250000
+TRX1421,Kesehatan & Kecantikan,Magelang,Transfer Bank,6,100000
+TRX1422,Fashion,Semarang,Kartu Kredit,4,15000
+TRX1423,Fashion,Purworejo,COD,5,250000
+TRX1424,Makanan & Minuman,Magelang,E-Wallet,9,100000
+TRX1425,Fashion,Purworejo,Kartu Kredit,7,15000
+TRX1426,Elektronik,Magelang,Transfer Bank,9,500000
+TRX1427,Rumah Tangga,Yogyakarta,E-Wallet,7,500000
+TRX1428,Rumah Tangga,Solo,COD,1,500000
+TRX1429,Kesehatan & Kecantikan,Magelang,Transfer Bank,8,500000
+TRX1430,Fashion,Purworejo,Transfer Bank,4,50000
+TRX1431,Elektronik,Yogyakarta,Transfer Bank,3,250000
+TRX1432,Kesehatan & Kecantikan,Magelang,Kartu Kredit,7,250000
+TRX1433,Makanan & Minuman,Semarang,COD,3,50000
+TRX1434,Kesehatan & Kecantikan,Solo,E-Wallet,8,100000
+TRX1435,Kesehatan & Kecantikan,Magelang,Kartu Kredit,6,100000
+TRX1436,Fashion,Yogyakarta,Kartu Kredit,5,500000
+TRX1437,Makanan & Minuman,Semarang,Kartu Kredit,4,15000
+TRX1438,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,8,100000
+TRX1439,Elektronik,Yogyakarta,COD,8,15000
+TRX1440,Elektronik,Semarang,Kartu Kredit,1,250000
+TRX1441,Rumah Tangga,Yogyakarta,E-Wallet,9,15000
+TRX1442,Makanan & Minuman,Semarang,COD,5,250000
+TRX1443,Makanan & Minuman,Magelang,E-Wallet,4,50000
+TRX1444,Rumah Tangga,Semarang,COD,6,50000
+TRX1445,Kesehatan & Kecantikan,Semarang,E-Wallet,6,500000
+TRX1446,Makanan & Minuman,Solo,Transfer Bank,2,100000
+TRX1447,Elektronik,Semarang,Kartu Kredit,8,500000
+TRX1448,Elektronik,Semarang,E-Wallet,7,250000
+TRX1449,Fashion,Magelang,COD,1,500000
+TRX1450,Makanan & Minuman,Solo,Kartu Kredit,5,15000
+TRX1451,Kesehatan & Kecantikan,Purworejo,Kartu Kredit,6,250000
+TRX1452,Rumah Tangga,Magelang,COD,4,50000
+TRX1453,Rumah Tangga,Magelang,E-Wallet,2,100000
+TRX1454,Kesehatan & Kecantikan,Purworejo,Transfer Bank,4,250000
+TRX1455,Fashion,Semarang,Transfer Bank,1,250000
+TRX1456,Rumah Tangga,Yogyakarta,E-Wallet,7,15000
+TRX1457,Makanan & Minuman,Solo,Kartu Kredit,2,100000
+TRX1458,Fashion,Yogyakarta,Kartu Kredit,2,50000
+TRX1459,Makanan & Minuman,Purworejo,Kartu Kredit,9,250000
+TRX1460,Elektronik,Magelang,Kartu Kredit,5,250000
+TRX1461,Fashion,Magelang,E-Wallet,2,15000
+TRX1462,Rumah Tangga,Solo,Kartu Kredit,9,500000
+TRX1463,Fashion,Magelang,COD,9,50000
+TRX1464,Fashion,Magelang,Kartu Kredit,1,100000
+TRX1465,Fashion,Solo,Transfer Bank,3,250000
+TRX1466,Fashion,Solo,Kartu Kredit,4,250000
+TRX1467,Makanan & Minuman,Purworejo,E-Wallet,7,50000
+TRX1468,Elektronik,Magelang,Transfer Bank,4,500000
+TRX1469,Kesehatan & Kecantikan,Magelang,E-Wallet,2,250000
+TRX1470,Fashion,Purworejo,E-Wallet,7,50000
+TRX1471,Rumah Tangga,Semarang,Transfer Bank,6,15000
+TRX1472,Fashion,Semarang,E-Wallet,3,500000
+TRX1473,Rumah Tangga,Semarang,E-Wallet,6,100000
+TRX1474,Makanan & Minuman,Purworejo,Kartu Kredit,6,250000
+TRX1475,Rumah Tangga,Magelang,COD,5,50000
+TRX1476,Kesehatan & Kecantikan,Purworejo,E-Wallet,4,15000
+TRX1477,Elektronik,Purworejo,E-Wallet,1,100000
+TRX1478,Rumah Tangga,Semarang,E-Wallet,6,50000
+TRX1479,Rumah Tangga,Yogyakarta,Kartu Kredit,2,50000
+TRX1480,Elektronik,Magelang,COD,3,100000
+TRX1481,Kesehatan & Kecantikan,Semarang,Transfer Bank,8,15000
+TRX1482,Fashion,Yogyakarta,Kartu Kredit,6,15000
+TRX1483,Rumah Tangga,Yogyakarta,Kartu Kredit,3,500000
+TRX1484,Elektronik,Solo,COD,7,250000
+TRX1485,Makanan & Minuman,Magelang,COD,4,100000
+TRX1486,Elektronik,Yogyakarta,Kartu Kredit,9,100000
+TRX1487,Makanan & Minuman,Semarang,Transfer Bank,5,100000
+TRX1488,Kesehatan & Kecantikan,Solo,Kartu Kredit,3,15000
+TRX1489,Fashion,Magelang,COD,2,250000
+TRX1490,Elektronik,Purworejo,Transfer Bank,2,500000
+TRX1491,Rumah Tangga,Semarang,COD,3,50000
+TRX1492,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,2,50000
+TRX1493,Elektronik,Yogyakarta,E-Wallet,4,100000
+TRX1494,Rumah Tangga,Semarang,COD,2,250000
+TRX1495,Elektronik,Yogyakarta,COD,9,15000
+TRX1496,Makanan & Minuman,Solo,Kartu Kredit,2,250000
+TRX1497,Elektronik,Magelang,COD,9,250000
+TRX1498,Elektronik,Solo,COD,6,15000
+TRX1499,Elektronik,Yogyakarta,E-Wallet,1,100000
+TRX1500,Kesehatan & Kecantikan,Purworejo,COD,4,250000
+TRX1501,Elektronik,Magelang,E-Wallet,1,50000
+TRX1502,Rumah Tangga,Magelang,E-Wallet,6,15000
+TRX1503,Makanan & Minuman,Semarang,E-Wallet,4,500000
+TRX1504,Makanan & Minuman,Semarang,E-Wallet,3,100000
+TRX1505,Elektronik,Purworejo,Transfer Bank,3,15000
+TRX1506,Kesehatan & Kecantikan,Magelang,Kartu Kredit,9,500000
+TRX1507,Kesehatan & Kecantikan,Purworejo,Transfer Bank,6,500000
+TRX1508,Rumah Tangga,Semarang,COD,9,250000
+TRX1509,Elektronik,Semarang,Transfer Bank,5,250000
+TRX1510,Makanan & Minuman,Magelang,Transfer Bank,2,250000
+TRX1511,Kesehatan & Kecantikan,Solo,COD,8,15000
+TRX1512,Elektronik,Yogyakarta,COD,5,15000
+TRX1513,Kesehatan & Kecantikan,Semarang,COD,2,100000
+TRX1514,Kesehatan & Kecantikan,Semarang,Transfer Bank,4,250000
+TRX1515,Makanan & Minuman,Solo,Transfer Bank,9,500000
+TRX1516,Fashion,Solo,COD,4,50000
+TRX1517,Rumah Tangga,Purworejo,Kartu Kredit,4,100000
+TRX1518,Rumah Tangga,Purworejo,Kartu Kredit,2,15000
+TRX1519,Makanan & Minuman,Yogyakarta,E-Wallet,6,100000
+TRX1520,Kesehatan & Kecantikan,Yogyakarta,COD,2,100000
+TRX1521,Elektronik,Magelang,E-Wallet,7,100000
+TRX1522,Kesehatan & Kecantikan,Purworejo,Kartu Kredit,3,100000
+TRX1523,Makanan & Minuman,Semarang,E-Wallet,3,50000
+TRX1524,Rumah Tangga,Purworejo,COD,5,250000
+TRX1525,Kesehatan & Kecantikan,Semarang,COD,3,500000
+TRX1526,Rumah Tangga,Solo,COD,2,100000
+TRX1527,Elektronik,Purworejo,Transfer Bank,9,100000
+TRX1528,Rumah Tangga,Solo,E-Wallet,2,100000
+TRX1529,Rumah Tangga,Yogyakarta,Kartu Kredit,2,250000
+TRX1530,Fashion,Yogyakarta,Kartu Kredit,8,15000
+TRX1531,Fashion,Magelang,Kartu Kredit,9,15000
+TRX1532,Fashion,Purworejo,Transfer Bank,7,50000
+TRX1533,Rumah Tangga,Solo,Transfer Bank,3,15000
+TRX1534,Makanan & Minuman,Semarang,COD,9,100000
+TRX1535,Rumah Tangga,Yogyakarta,Kartu Kredit,3,100000
+TRX1536,Makanan & Minuman,Yogyakarta,Transfer Bank,5,100000
+TRX1537,Makanan & Minuman,Semarang,COD,9,50000
+TRX1538,Fashion,Solo,Kartu Kredit,3,100000
+TRX1539,Kesehatan & Kecantikan,Solo,E-Wallet,7,15000
+TRX1540,Elektronik,Purworejo,COD,1,250000
+TRX1541,Fashion,Purworejo,Transfer Bank,4,250000
+TRX1542,Fashion,Magelang,Transfer Bank,4,500000
+TRX1543,Kesehatan & Kecantikan,Yogyakarta,COD,7,15000
+TRX1544,Elektronik,Purworejo,COD,8,100000
+TRX1545,Rumah Tangga,Solo,Transfer Bank,1,250000
+TRX1546,Rumah Tangga,Semarang,E-Wallet,5,15000
+TRX1547,Fashion,Solo,Kartu Kredit,7,250000
+TRX1548,Elektronik,Yogyakarta,E-Wallet,4,100000
+TRX1549,Fashion,Solo,COD,4,250000
+TRX1550,Makanan & Minuman,Magelang,E-Wallet,4,500000
+TRX1551,Fashion,Yogyakarta,Transfer Bank,6,500000
+TRX1552,Fashion,Semarang,COD,7,250000
+TRX1553,Rumah Tangga,Magelang,Kartu Kredit,2,15000
+TRX1554,Rumah Tangga,Yogyakarta,Transfer Bank,5,15000
+TRX1555,Rumah Tangga,Semarang,Transfer Bank,4,15000
+TRX1556,Makanan & Minuman,Magelang,Kartu Kredit,3,250000
+TRX1557,Rumah Tangga,Magelang,Kartu Kredit,7,15000
+TRX1558,Elektronik,Yogyakarta,E-Wallet,6,100000
+TRX1559,Kesehatan & Kecantikan,Purworejo,COD,7,500000
+TRX1560,Elektronik,Magelang,Kartu Kredit,5,100000
+TRX1561,Elektronik,Magelang,Kartu Kredit,6,15000
+TRX1562,Rumah Tangga,Semarang,COD,5,100000
+TRX1563,Kesehatan & Kecantikan,Solo,Kartu Kredit,7,15000
+TRX1564,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,2,250000
+TRX1565,Kesehatan & Kecantikan,Yogyakarta,E-Wallet,5,100000
+TRX1566,Makanan & Minuman,Purworejo,Transfer Bank,6,250000
+TRX1567,Rumah Tangga,Purworejo,Transfer Bank,6,250000
+TRX1568,Kesehatan & Kecantikan,Yogyakarta,Transfer Bank,5,50000
+TRX1569,Makanan & Minuman,Purworejo,Transfer Bank,7,15000
+TRX1570,Fashion,Semarang,Kartu Kredit,8,500000
+TRX1571,Fashion,Yogyakarta,COD,7,15000
+TRX1572,Makanan & Minuman,Purworejo,COD,5,500000
+TRX1573,Makanan & Minuman,Yogyakarta,E-Wallet,1,15000
+TRX1574,Rumah Tangga,Solo,E-Wallet,5,250000
+TRX1575,Rumah Tangga,Magelang,Kartu Kredit,2,100000
+TRX1576,Fashion,Yogyakarta,COD,5,100000
+TRX1577,Kesehatan & Kecantikan,Magelang,COD,5,50000
+TRX1578,Fashion,Purworejo,Transfer Bank,2,500000
+TRX1579,Kesehatan & Kecantikan,Magelang,Kartu Kredit,5,500000
+TRX1580,Kesehatan & Kecantikan,Yogyakarta,Kartu Kredit,4,500000
+TRX1581,Rumah Tangga,Solo,Transfer Bank,1,250000
+TRX1582,Elektronik,Purworejo,Kartu Kredit,3,500000
+TRX1583,Elektronik,Yogyakarta,Kartu Kredit,1,100000
+TRX1584,Makanan & Minuman,Purworejo,E-Wallet,5,250000
+TRX1585,Rumah Tangga,Semarang,COD,4,15000
+TRX1586,Kesehatan & Kecantikan,Magelang,Kartu Kredit,7,500000
+TRX1587,Elektronik,Semarang,E-Wallet,5,500000
+TRX1588,Kesehatan & Kecantikan,Yogyakarta,COD,4,15000
+TRX1589,Elektronik,Solo,Transfer Bank,2,500000
+TRX1590,Elektronik,Purworejo,E-Wallet,4,15000
+TRX1591,Elektronik,Magelang,E-Wallet,2,250000
+TRX1592,Rumah Tangga,Purworejo,COD,8,100000
+TRX1593,Fashion,Yogyakarta,Transfer Bank,3,15000
+TRX1594,Kesehatan & Kecantikan,Purworejo,E-Wallet,9,50000
+TRX1595,Rumah Tangga,Magelang,Kartu Kredit,4,15000
+TRX1596,Rumah Tangga,Yogyakarta,Kartu Kredit,6,500000
+TRX1597,Rumah Tangga,Purworejo,Kartu Kredit,5,250000
+TRX1598,Rumah Tangga,Solo,Transfer Bank,1,250000
+TRX1599,Rumah Tangga,Yogyakarta,E-Wallet,9,15000
